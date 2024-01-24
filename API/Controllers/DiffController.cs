@@ -20,7 +20,7 @@ namespace API.Controllers
 
 
         [HttpGet]
-        public  ActionResult GetItems()
+        public ActionResult GetItems()
         {
             var items = _itemRepository.GetItems();
 

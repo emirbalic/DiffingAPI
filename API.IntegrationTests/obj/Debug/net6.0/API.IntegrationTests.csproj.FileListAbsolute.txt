@@ -1,0 +1,7 @@
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\obj\Debug\net6.0\API.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\obj\Debug\net6.0\API.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\obj\Debug\net6.0\API.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\obj\Debug\net6.0\API.IntegrationTests.AssemblyInfo.cs
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\obj\Debug\net6.0\API.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Emir Balic\Desktop\DiffingAPI\API.IntegrationTests\obj\Debug\net6.0\API.IntegrationTests.sourcelink.json
